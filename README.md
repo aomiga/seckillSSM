@@ -2,7 +2,7 @@
 ## 2017年的最后一天，大家都在跨年，倒计时。我在苦逼的写着代码。但我自己觉得，这也许是最有意义的一次跨年了。
 ## Spring + SpringMVC+ Mybatis + Mysql 实现的秒杀系统。基于git上的一个系统去学习。
 项目详细信息gitURL:
-![](https://github.com/aomiga/seckill)
+https://github.com/aomiga/seckill
 好了，现在开始我自己的。
 ## 需求说明：
     1.向用户展示秒杀列表，用户可根据选择满足秒杀条件的商品进行秒杀；
